@@ -1,0 +1,4 @@
+datasets==2.16.1
+pandas==2.0.3
+transformers==4.36.2
+ner_metrics==0.1.2
